@@ -17,7 +17,7 @@ Config.crypto = 'qb-crypto'
 Config.lapraces = 'qb-lapraces'
 Config.houses = 'qb-houses'
 Config.pings = 'qb-pings'
-Config.hud = "ps-hud"
+Config.hud = "qb-hud"
 Config.bossmenu = "qb-bossmenu"
 
 Config.Movement = true -- Allow walking and driving while using phone
